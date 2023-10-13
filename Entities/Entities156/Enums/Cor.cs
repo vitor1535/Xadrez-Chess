@@ -1,0 +1,5 @@
+enum Cor
+{
+    Preta,
+    Branca
+}
